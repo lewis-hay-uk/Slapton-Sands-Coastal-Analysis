@@ -21,4 +21,6 @@ ArcGIS Online | QGIS | Excel | Survey123 | Strava GPS
 ## Key Finding
 Beach CSA increases significantly south to north (longshore drift).
 NVI values correlate spatially with SMP strategy type (HTL/MR/NAI).
+## Map
+![NVI Visualisation](slapton_nvi_map.png)
     
